@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![Image of Yaktocat](http://dineroclub.net/wp-content/uploads/2019/11/DEVELOPER.png)
+![Image](http://dineroclub.net/wp-content/uploads/2019/11/DEVELOPER.png)
 
 
 <!--
