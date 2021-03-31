@@ -7,7 +7,7 @@
 
 <div aling="center">
 <p>
-  <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroLaborde&layout=compact&theme=tokyonight&langs_count=10" alt="AlejandroLaborde" />
+  <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroLaborde&layout=compact&theme=tokyonight&langs_count=10&show_icons=true" alt="AlejandroLaborde" />
 </p>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlejandroLaborde&theme=tokyonight&show_icons=true" alt="AlejandroLaborde" /></p>
