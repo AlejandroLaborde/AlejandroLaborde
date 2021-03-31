@@ -12,7 +12,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlejandroLaborde&theme=tokyonight&show_icons=true" alt="AlejandroLaborde" /></p>
 </div>
-
+<br>
 ---
 
 <h3 align="left">Technologies used:</h3>
