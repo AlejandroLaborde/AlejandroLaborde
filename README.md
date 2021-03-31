@@ -12,9 +12,9 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlejandroLaborde&theme=tokyonight&show_icons=true" alt="AlejandroLaborde" /></p>
 </div>
-<br>
----
+<br><br><br><br><br><br><br><br><br></br>
 
+---
 <h3 align="left">Technologies used:</h3>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
