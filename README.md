@@ -1,12 +1,28 @@
 ![Image](http://dineroclub.net/wp-content/uploads/2019/11/DEVELOPER.png)
+
 <h1 align="center">Welcome <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, I'm Alejandro Laborde Parodi</h1>
+<h3 align="center">Software Developer | Data Engineer</h3>
 
-<p>
-  <h2>A programming student at the <b>National Technological University [UTN] 👨‍💻</b> </h2>
-  <h2>from <img src="https://github.com/caidevOficial/Logos/blob/master/Personales/argentina.png" height="20" width="20"/> <b>Buenos Aires, Argentina</b>..</h2>
+<!--
+Soy Tecnico Superior en Programacion y estudiante Tecnico Superior en Sistemas Informaticos en la Universisdad Tecnolócica Nacional de argentina /bandera/
+Soy Full-Stack Software Developer y actualmente trabajo como Data Engineer
+
+
+
+-->
+<!--
+<p align="center">
+  <em>
+    Soy <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Amritsar college of engineering & technology</b>, amritsar</a>. <br>
+    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
-
-
+-->
 ---
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
