@@ -1,13 +1,17 @@
 ![Image](http://dineroclub.net/wp-content/uploads/2019/11/DEVELOPER.png)
 
 
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Welcome, I'm <b>Alejandro!</b></h1><br>
+<h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Welcome, I'm <b>Alejandro!</b></h1>
 <p><h2>A programming student at the <b>National Technological University [UTN] 👨‍💻</b> </h2>
 <h2>from <img src="https://github.com/caidevOficial/Logos/blob/master/Personales/argentina.png" height="20" width="20"/> <b>Buenos Aires, Argentina</b>..</h2></p><br><br>
 
-![AlejandroLaborde Stats](https://github-readme-stats.vercel.app/api?username=AlejandroLaborde&theme=gruvbox&show_icons=true)
-
-<a href="https://github.com/AlejandroLaborde/AlejandroLaborde"><img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=AlejandroLaborde&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=Front_CuadraticApp,Front_TaiWeb&hide=html"/> </a>
+<div aling="center">
+<p>
+  <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroLaborde&layout=compact&theme=tokyonight&langs_count=10" alt="AlejandroLaborde" />
+</p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlejandroLaborde&theme=tokyonight&show_icons=true" alt="AlejandroLaborde" /></p>
+</div>
 
 ---
 
@@ -42,20 +46,3 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" /> </a>
 </p>
 
-<!--
-**AlejandroLaborde/AlejandroLaborde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Hey there, I'm Alejandro. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
