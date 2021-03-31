@@ -5,6 +5,8 @@
 <p><h2>A programming student at the <b>National Technological University [UTN] 👨‍💻</b> </h2>
 <h2>from <img src="https://github.com/caidevOficial/Logos/blob/master/Personales/argentina.png" height="20" width="20"/> <b>Buenos Aires, Argentina</b>..</h2></p><br><br>
 
+---
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/AlejandroLaborde">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroLaborde&layout=compact&theme=tokyonight&langs_count=10&show_icons=true"/>
@@ -13,8 +15,9 @@
 </p>
 
 
+
 ---
-<h3 align="left">Technologies used:</h3>
+### 💻 &nbsp;Technologies used
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
