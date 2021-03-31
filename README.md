@@ -1,11 +1,13 @@
 ![Image](http://dineroclub.net/wp-content/uploads/2019/11/DEVELOPER.png)
 
 
+<h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Welcome, I'm <b>Alejandro!</b></h1><br>
+<p><h2>A programming student at the <b>National Technological University [UTN] 👨‍💻</b> </h2>
+<h2>from <img src="https://github.com/caidevOficial/Logos/blob/master/Personales/argentina.png" height="20" width="20"/> <b>Buenos Aires, Argentina</b>..</h2></p><br><br>
 
 ![AlejandroLaborde Stats](https://github-readme-stats.vercel.app/api?username=AlejandroLaborde&theme=gruvbox&show_icons=true)
 
-
-
+<a href="https://github.com/AlejandroLaborde/AlejandroLaborde"><img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=AlejandroLaborde&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=Front_CuadraticApp,Front_TaiWeb&hide=html"/> </a>
 
 ---
 
