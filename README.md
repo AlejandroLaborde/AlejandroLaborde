@@ -5,14 +5,13 @@
 <p><h2>A programming student at the <b>National Technological University [UTN] 👨‍💻</b> </h2>
 <h2>from <img src="https://github.com/caidevOficial/Logos/blob/master/Personales/argentina.png" height="20" width="20"/> <b>Buenos Aires, Argentina</b>..</h2></p><br><br>
 
-<div aling="center">
-<p>
-  <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroLaborde&layout=compact&theme=tokyonight&langs_count=10&show_icons=true" alt="AlejandroLaborde" />
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroLaborde&layout=compact&theme=tokyonight&langs_count=10&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlejandroLaborde&theme=tokyonight&show_icons=true" alt="AlejandroLaborde"/>
+</a>
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlejandroLaborde&theme=tokyonight&show_icons=true" alt="AlejandroLaborde" /></p>
-</div>
-<br><br><br><br><br><br><br><br><br></br>
+
 
 ---
 <h3 align="left">Technologies used:</h3>
