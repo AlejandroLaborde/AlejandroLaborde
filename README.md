@@ -3,35 +3,14 @@
 <h1 align="center">Welcome <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, I'm Alejandro Laborde Parodi</h1>
 <h3 align="center">Software Developer | Data Engineer</h3>
 
-<!--
-Soy Tecnico Superior en Programacion y estudiante Tecnico Superior en Sistemas Informaticos en la Universisdad Tecnolócica Nacional de argentina /bandera/
-Soy Full-Stack Software Developer y actualmente trabajo como Data Engineer
-
-
-
--->
-<!--
 <p align="center">
   <em>
-     <b></b> <a href="https://www.acetamritsar.ac.in/"> <b></b>, </a>. <br>
-    <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-     <b></b><b></b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+   I am a <b> Senior Technician in Programming </b> and I'm studying to become a <b> Senior Technician in Computer Systems</b> <br>
+   I am <b> Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and currently work as a <b>Data    Engineer</b><br>
+    I like to learn about new programming languages and create solutions 🌏
   </em> 
   <br>
 </p>
--->
----
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/AlejandroLaborde">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroLaborde&layout=compact&theme=tokyonight&langs_count=10&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlejandroLaborde&theme=tokyonight&show_icons=true" alt="AlejandroLaborde"/>
-</a>
-</p>
-
-
 
 ---
 ### 💻 &nbsp;Technologies used
@@ -64,4 +43,33 @@ Soy Full-Stack Software Developer y actualmente trabajo como Data Engineer
 <a href="https://www.scala-lang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" alt="Scala" width="40" height="40" /> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" /> </a>
 </p>
+
+---
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/AlejandroLaborde">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroLaborde&layout=compact&theme=tokyonight&langs_count=10&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlejandroLaborde&theme=tokyonight&show_icons=true" alt="AlejandroLaborde"/>
+</a>
+</p>
+
+
+---
+### 📬 Connect with me
+<!--
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](www.linkedin.com/in/alabordeparodi) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/alelabordeparodi/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/AlejandroLaborde) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:alelabordeparodi@gmail.com)
+|:---:|:---:|:---:|:---:|
+
+-->
+<p align="center"> 
+<a href="https://www.linkedin.com/in/alabordeparodi" target="_blank"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.instagram.com/alelabordeparodi/" target="_blank"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="40" height="40"/> </a> 
+<a href="https://github.com/AlejandroLaborde" target="_blank"> <img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" alt="css3" width="40" height="40"/></a>
+<a href="mailto:alelabordeparodi@gmail.com" target="_blank"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="40" height="40"/></a> 
+</p>
+
+
+
+
+
 
