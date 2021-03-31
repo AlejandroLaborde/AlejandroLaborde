@@ -1,9 +1,13 @@
 ![Image](http://dineroclub.net/wp-content/uploads/2019/11/DEVELOPER.png)
 
+<h1> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Welcome, I'm <b>Alejandro!</b>
+</h1>
+<p>
+  <h2>A programming student at the <b>National Technological University [UTN] 👨‍💻</b> </h2>
+  <h2>from <img src="https://github.com/caidevOficial/Logos/blob/master/Personales/argentina.png" height="20" width="20"/> <b>Buenos Aires, Argentina</b>..</h2>
+</p>
 
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Welcome, I'm <b>Alejandro!</b></h1>
-<p><h2>A programming student at the <b>National Technological University [UTN] 👨‍💻</b> </h2>
-<h2>from <img src="https://github.com/caidevOficial/Logos/blob/master/Personales/argentina.png" height="20" width="20"/> <b>Buenos Aires, Argentina</b>..</h2></p><br><br>
 
 ---
 ### ⚙️ &nbsp;GitHub Analytics
@@ -18,7 +22,7 @@
 
 ---
 ### 💻 &nbsp;Technologies used
-<p align="left"> 
+<p align="center"> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
