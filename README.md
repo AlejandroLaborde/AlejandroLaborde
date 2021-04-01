@@ -38,7 +38,8 @@
 <a href="https://www.jetbrains.com/es-es/idea/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelIj" width="40" height="40" /> </a>
 <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" /> </a>
 <a href="https://ionicframework.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="Ionic" width="40" height="40" /> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Firebase" width="40" height="40" /> </a>
+<a href="https://firebase.google.com/?hl=es" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40" /> </a>
+<a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" /> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="Npm" width="40" height="40" /> </a>
 <a href="https://www.scala-lang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" alt="Scala" width="40" height="40" /> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" /> </a>
