@@ -33,7 +33,7 @@
 <a href="https://slack.com/intl/es-ar/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" width="40" height="40" /> </a>
 <a href="https://trello.com/es" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="40" height="40" /> </a>
 <a href="https://www.ubuntu.org/" target="_blank"> <img src="https://github.com/caidevOficial/Curriculum/blob/main/media/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40" /> </a>
-<a href="https://www.android.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="Android" width="40" height="40" /> </a>
+<a href="https://gitlab.com/gitlab-org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="40" height="40" /> </a>
 <a href="https://dashboard.heroku.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40" /> </a>
 <a href="https://www.jetbrains.com/es-es/idea/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelIj" width="40" height="40" /> </a>
 <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" /> </a>
