@@ -6,7 +6,7 @@
 <p align="center">
   <em>
    I am a <b> Senior Technician in Programming </b> and I'm studying to become a <b> Senior Technician in Computer Systems</b> <br>
-   I am <b> Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and currently work as a <b>Data    Engineer</b><br>
+   I am <b> Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and currently work as a <b>Software Developer Java</b><br>
     I like to learn about new programming languages and create solutions 🌏
   </em> 
   <br>
