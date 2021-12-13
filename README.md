@@ -1,4 +1,4 @@
-![Image](http://dineroclub.net/wp-content/uploads/2019/11/DEVELOPER.png)
+![Image](https://www.veracode.com/sites/default/files/styles/blog_post_resize_960/public/developer-guide-blog-2.png?itok=JQGRVjEX)
 
 <h1 align="center">Welcome <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, I'm Alejandro Laborde Parodi</h1>
 <h3 align="center">Software Developer | Data Engineer</h3>
